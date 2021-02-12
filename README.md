@@ -1,4 +1,4 @@
 # cristianconti.github.io
-simple personal page
+[Notion](https://www.notion.so)
 
 i say personal
